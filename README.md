@@ -1,2 +1,2 @@
 # Multivariate_Analysis
-Projects and homework completed during my Multivariate Analysis course
+Projects completed during my Multivariate Analysis course during my Graduate education in Statistics
